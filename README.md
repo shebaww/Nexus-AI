@@ -1,9 +1,9 @@
 # Nexus AI
 Nexus AI - Email Assistant & Chatbot
 
-https://github.com/MrPeanut-2/hackathon-project/edit/main/screenshot.png
+https://github.com/shebaww/Nexus-AI/edit/main/screenshot.png
 
-🔗Link to visit Site: https://mrpeanut-2.github.io/hackathon-project/ 
+🔗Link to visit Site: https://shebaww.github.io/Nexus-AI/ 
 📋 Overview
 
 Nexus AI is a modern web application that combines AI-powered email assistance with a conversational chatbot interface. It helps users draft and send emails efficiently while providing helpful responses to various queries.
@@ -202,3 +202,4 @@ For support, questions, or feedback:
     Open an issue in the GitHub repository
 
     Check the FAQ section (coming soon)
+
